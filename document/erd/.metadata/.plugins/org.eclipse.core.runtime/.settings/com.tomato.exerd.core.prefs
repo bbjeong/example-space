@@ -1,0 +1,6 @@
+#Mon Sep 26 15:39:26 KST 2022
+SET_LOGICAL_COLUMN_NAME_SEPARATOR=\ 
+eclipse.preferences.version=1
+com.tomato.exerd.preference.product.lastSelectedProductId=com.tomato.db.cubrid
+DO_NOT_USE_DELIMITER_FOR_LOGICAL_NAME_WITHOUT_DELIMITER=false
+last-known-version=3.3.14.20211117-1015
